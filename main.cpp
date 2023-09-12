@@ -222,11 +222,6 @@ int main(int argc, char* argv[])
             }
 
         }
-    //}
-    //else{
-        //fixme calling when just using help or no arguments
-        //cout << "Invalid file name." << endl;
-    //}
 
     return 0;
 }
